@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 💬 I speak 🇺🇦 Ukrainian, 🇬🇧 English, 🇸🇪 Swedish and 🇫🇮 a little Finnish
 - 📫 My Linkedin: www.linkedin.com/in/alona-chubenko-ukr
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonaCh&size_weight=0.5&count_weight=0.5)
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonaCh&size_weight=0.5&count_weight=0.5&theme=dracula&title_color=ff5733&text_color=ffffff&bg_color=333333&border_radius=10&layout=donut)
