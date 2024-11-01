@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying full-stack web development in Business College Helsinki.
-- 👀 Searching for a job position in Web Development.
-- 👯 I think frontend is super interesting 👍
+- 🔭 Full stack web developer
+- 👀 Searching for a job position in Web Development
+- 👯 Focus on Frontend👍
 - 💬 I speak 🇺🇦 Ukrainian, 🇬🇧 English, 🇸🇪 Swedish and 🇫🇮 a little Finnish
 - 📫 My Linkedin: www.linkedin.com/in/alona-chubenko-ukr
 
